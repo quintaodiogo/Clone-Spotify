@@ -1,4 +1,4 @@
-# Clone-Spotify
+# Spotify
 Desafio Iniciante - Ímã Learning Place
 
 Imagens do Projeto!
