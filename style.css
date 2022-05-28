@@ -145,8 +145,16 @@ body {
 /*Footer Social*/
 .social{
     display: flex;
+    align-items: baseline;
 }
 .social i{
+    background: #3a3b3b;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
     margin: 0 20px;
     font-size: 1.7rem;
     transition: all 100ms ease;
@@ -154,7 +162,7 @@ body {
 
 .social i:hover{
     cursor: pointer;
-    color: #1ed760;
+    color: #1ed760;   
 }
 
 /*Foooter info*/
